@@ -27,7 +27,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "app/(auth)/sign-up/[[...sign-up]]/page.jsx"  ],
+, "app/(auth)/sign-up/[[...sign-up]]/page.jsx", "components/ui/dialog.jsx"  ],
   "exclude": [
     "node_modules"
   ]

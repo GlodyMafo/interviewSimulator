@@ -1,13 +1,13 @@
-import React from 'react'
-import Header from './_components/Nav'
+import React from "react";
+import Header from "./_components/Nav";
 
-function  DashboardLayout({children}) {
+function DashboardLayout({ children }) {
   return (
     <div>
-      <Header/>
-      {children}
-      </div>
-  )
+      <Header />
+      <div className="mx-5 md:mx-20 lg:mx-38">{children}</div>
+    </div>
+  );
 }
 
-export default  DashboardLayout
+export default DashboardLayout;
