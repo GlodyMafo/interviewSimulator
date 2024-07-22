@@ -34,7 +34,7 @@ export default function Page() {
         </a>
 
         <h1 className="mt-6 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-          Welcome to Squid 
+          Binvenue sur le simulateur d'interview
         </h1>
 
         <p className="mt-4 leading-relaxed text-gray-500">
